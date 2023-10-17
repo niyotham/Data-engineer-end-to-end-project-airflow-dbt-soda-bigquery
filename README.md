@@ -1,4 +1,4 @@
-# End to end data engineering project with airflow, dbt, soda andbigquery
+End to end data engineering project with airflow, dbt, soda andbigquery
 =========================================================================
 An end to end data engineering project for loading data into bigquery  with airflow and perform transformations using  dbt and data quality check with soday
 
